@@ -1,0 +1,3 @@
+[submodule "thymeleaf-test"]
+	path = thymeleaf-test
+	url = https://github.com/koendebruijn/thymeleaf-test.git
